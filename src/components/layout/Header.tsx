@@ -258,8 +258,8 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "/list",
   },
   {
-    label: "Market",
-    href: "https://market.0xns.pro",
+    label: "Buy H",
+    href: "https://app.uniswap.org/swap?outputCurrency=0x76174204db0bc7c3c817ce5b16c6ef3900434b02&chain=polygon",
   },
   
   {
