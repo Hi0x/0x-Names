@@ -31,7 +31,7 @@ export const ADMIN_WALLET = "0x6ec0Ce3333A7A2a37e38c656B46752F2a9fC8e19" //ETH w
 export const NOTICE_TITLE = ""
 export const NOTICE_NON_MEMBER = ""
 
-export const DOMAIN_BANNER = "https://i.imgur.com/m0mMd2Y.png" //290x80 size
+export const DOMAIN_BANNER = "https://i.imgur.com/nTR9THQ.png" //290x80 size
 
 //Configuration should match with the chain specified at NETWORKS
 //Leave TOKEN_CONTRACT_ADDRESS to blank for default ETH payment
