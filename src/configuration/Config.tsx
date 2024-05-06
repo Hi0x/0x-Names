@@ -19,7 +19,7 @@ export const NETWORKS = [polygon]; //polygon, filecoin, polygonMumbai
 export const NETWORK_ERROR = "Connect your wallet" //Change network name as required
 
 export const DOMAIN_TLD = '0x' //primary domain name without dot (.)
-export const DOMAIN_IMAGE_URL = 'https://ipfs.io/ipfs/QmWfLXhfseaSkLrGm14my1TyrKRZ1H8W4DXtvpN9yWxYo9' //Image path starts with ipfs:// or https://
+export const DOMAIN_IMAGE_URL = 'https://ipfs.io/ipfs/QmRSHF1SNVYRyhYqEibP19CEU4R4r8PCfzkeJb7F17B5VA' //Image path starts with ipfs:// or https://
 export const DOMAIN_NETWORK_CHAIN = 137 //137 for polygon, 314 for filecoin, 80001 form mumbai
 export const DOMAIN_DESCRIPTION = 'Web3 Domain Name'
 export const DOMAIN_TYPE = "W3D" //W3D for polygon, FVM for Filecoin net
