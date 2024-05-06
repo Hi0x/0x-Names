@@ -44,7 +44,6 @@ const Home: NextPage = () => {
             py={{ base: 20, md: 2 }}
           >
             
-            <PrivateNotice/>
             <div>
 
 
