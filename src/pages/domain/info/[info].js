@@ -153,7 +153,7 @@ export default function Info() {
     <Flex
       align="center"
       justify="center"
-      bg={useColorModeValue("white", "gray.700")}
+      bg={"#fff0"}
       borderRadius="md"
       color={useColorModeValue("gray.700", "whiteAlpha.900")}
       shadow="base"
