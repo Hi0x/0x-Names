@@ -24,6 +24,7 @@ export default function SearchPage() {
         <Box
           textAlign="center"
           alignContent={"center"}
+          width={400}
           borderRadius="lg"
           p={{ base: 2, lg: 1 }}
           bgSize={"lg"}
