@@ -48,10 +48,10 @@ export function Header(props: Props) {
       pos="sticky"
       w="full"
       alignItems="center"
-      borderBottom="1px"
+      borderBottom="2px"
       borderBottomWidth="small"
       borderBottomStyle="solid"
-      borderBottomColor="white"
+      borderBottomColor="#fff1"
     >
       <Flex flex={{ base: 2 }} justify={{ base: "center", md: "start" }}>
         <Link
