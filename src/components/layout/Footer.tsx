@@ -39,10 +39,10 @@ export function Footer(props: Props) {
       color={useColorModeValue("gray.700", "gray.200")}
       pos="fixed"
       w="full"
-      borderTop="1px"
+      borderTop="2px"
       borderTopWidth="small"
       borderTopStyle="solid"
-      borderTopColor="white"
+      borderTopColor="#fff1"
       bottom={0}
     >
       <Container
