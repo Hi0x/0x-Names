@@ -268,7 +268,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
    {
     label: 'chat',
-    href: 'https://chat.hi0x.net',
+    href: 'https://chat.0xns.pro',
   },
   {
     label: 'Docs',
