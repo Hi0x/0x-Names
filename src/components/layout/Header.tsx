@@ -263,8 +263,12 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   
   {
-    label: "Stake",
+    label: "0XStake",
     href: "https://stake.0xns.pro",
+  },
+   {
+    label: "HStake",
+    href: "https://hstake.0xns.pro",
   },
    {
     label: 'chat',
