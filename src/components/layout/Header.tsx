@@ -276,7 +276,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: 'Docs',
-    href: 'https://docs.hi0x.net/0x-name-service',
+    href: 'https://docs.0xns.pro',
   },
   
 ];
